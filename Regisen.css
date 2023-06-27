@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* body{
+    background-image: url(bgci.jfif);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+} */
+.mainbox{
+    border: 2px solid black;
+    width: 300px;
+
+    height: 400px;
+    
+}
+.names{
+    margin-top: 20px;
+}
+.sub{
+    background-color: #87f747;
+
+}
+.ret{
+    background-color: #87f747;
+
+}

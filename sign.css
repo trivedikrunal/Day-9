@@ -1,0 +1,19 @@
+fieldset{
+    background-color: skyblue;
+    width: 200px;
+}
+.Sign{
+    background-color: greenyellow;
+}
+.Sign_Up{ 
+    background-color: greenyellow;
+    margin-left: 10px;
+}
+span{
+    margin-top: 5px;
+}
+/* div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
